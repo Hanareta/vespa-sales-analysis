@@ -29,7 +29,7 @@ Keterbatasan yang secara sadar membentuk ruang lingkup analisis:
 
 ## Temuan Utama
 
-![Dashboard Ringkasan](assets/dashboard-screenshot.png)
+![Dashboard Ringkasan](assets/dashboard.png)
 
 - **Revenue tersebar merata, bukan terkonsentrasi (pola *long tail*).** Dari 221 SKU aktif, top 5 SKU hanya menyumbang **15%** dari total revenue Rp13.801.500 — jauh dari pola Pareto 80/20 yang umum diasumsikan di ritel. Bahkan top 8 barang gabungan (Oli Mesin hingga Laher NTN) hanya berkontribusi sekitar 20% dari total. Ini mengindikasikan pelanggan datang untuk kebutuhan spesifik (part yang aus/rusak pada motor masing-masing), bukan membeli dari segelintir barang favorit — rata-rata tiap SKU hanya terjual **531 ÷ 221 ≈ 2,4 unit** dalam 3 bulan.
 - **Pengecualian: Oli Mesin.** Dengan revenue Rp894.000, lebih dari 2x lipat barang kedua (Kampas rem, Rp361.000). Ini konsisten dengan sifatnya sebagai barang consumable rutin (dibeli berkala, bukan hanya saat rusak) — berbeda karakter dari mayoritas SKU lain, dan menjadi satu-satunya barang dengan pola menonjol jelas dari data.
